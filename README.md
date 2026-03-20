@@ -1,2 +1,3 @@
-# simple-monitoring-tool-6re9
+# Simple Monitoring Tool 6Re9
+
 A repository to test GitHub automation for issue management.
